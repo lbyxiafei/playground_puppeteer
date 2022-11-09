@@ -12,7 +12,7 @@
 
 ```json
 "scripts": {
-    "test": "node index"
+    "start": "node index"
 },
 ```
 
